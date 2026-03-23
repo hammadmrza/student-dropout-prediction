@@ -189,7 +189,7 @@ The same methodology (RF + SMOTE + SHAP) was applied to the UPV dataset:
 ## 🔗 Links
 
 Code: https://github.com/hammadmrza/student-dropout-prediction
-Live App: https://student-dropout-prediction-itec6240.streamlit.app
+Live App: https://student-dropout-prediction-itec6240.streamlit.app/
 UCI Dataset: https://archive.ics.uci.edu/dataset/697
 UPV Dataset: https://doi.org/10.3390/data10100162
 
