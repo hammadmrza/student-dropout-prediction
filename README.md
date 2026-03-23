@@ -7,7 +7,6 @@ ML pipeline predicting student dropout, enrollment, or graduation using stacking
 *A Multi-Strategy Approach with Cross-Institutional Validation and Fairness Analysis*
 
 **ITEC 6240 — Machine Learning and Its Applications | York University, Winter 2026**  
-Cameron Thomson · Hammad Mirza · Fatemeh Khezerlouye Aghdam
 
 ---
 
@@ -184,16 +183,6 @@ The same methodology (RF + SMOTE + SHAP) was applied to the UPV dataset:
 5. Realinho, V. et al. (2022). Predicting Student Dropout and Academic Success. *Data*, 7(11), 146.
 6. Villar, A. & de Andrade, C. (2024). Supervised ML for Predicting Student Dropout. *Discover AI*, 4(2).
 7. Igualde-Sáez, A. et al. (2025). University Student Dropout: A Longitudinal Dataset. *Data*, 10(10), 162.
-
----
-
-## 👥 Team Contributions
-
-| Team Member | Student ID | Contributions |
-|---|---|---|
-| Cameron Thomson | 214182984 | Problem statement, introduction, dataset description, preprocessing pipeline design, report formatting |
-| Hammad Mirza | 210910123 | Literature review, model training and evaluation, SHAP explainability, subgroup analysis, UPV cross-institutional analysis, fairness audit, results visualization |
-| Fatemeh Khezerlouye Aghdam | 221387352 | Evaluation methodology, SMOTE implementation, confusion matrix analysis, Streamlit application development, conclusion |
 
 ---
 
