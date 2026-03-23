@@ -16,7 +16,7 @@ Nearly 1 in 3 students who begin a bachelor's degree never finish it. Universiti
 
 This project builds a machine learning pipeline that predicts whether a student will **drop out**, remain **enrolled** (uncertain), or **graduate** — using 36 features collected at enrollment and after two semesters. We go beyond standard model comparison by adding subgroup-stratified SHAP analysis, the first formal fairness audit on this dataset, and cross-institutional validation against 20,427 students from a Spanish university.
 
-**Live demo:** https://hammadmrza-student-dropout-prediction.streamlit.app)
+**Live demo:** https://student-dropout-prediction-itec6240.streamlit.app/
 
 ---
 
