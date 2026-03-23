@@ -1,0 +1,26 @@
+{
+  "lms_days_monthly": {
+    "high_risk": 0.9,
+    "low_risk": 12.3,
+    "dropout_mean": 9.8,
+    "non_dropout_mean": 16.0
+  },
+  "lms_assigns_monthly": {
+    "high_risk": 0.0,
+    "low_risk": 0.4,
+    "dropout_mean": 0.7,
+    "non_dropout_mean": 1.0
+  },
+  "wifi_days_monthly": {
+    "high_risk": 2.2,
+    "low_risk": 6.5,
+    "dropout_mean": 4.0,
+    "non_dropout_mean": 6.2
+  },
+  "lms_minutes_monthly": {
+    "high_risk": 53.0,
+    "low_risk": 816.5,
+    "dropout_mean": 676.2,
+    "non_dropout_mean": 1216.2
+  }
+}
