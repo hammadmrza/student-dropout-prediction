@@ -16,7 +16,7 @@ Nearly 1 in 3 students who begin a bachelor's degree never finish it. Universiti
 
 This project builds a machine learning pipeline that predicts whether a student will **drop out**, remain **enrolled** (uncertain), or **graduate** — using 36 features collected at enrollment and after two semesters. We go beyond standard model comparison by adding subgroup-stratified SHAP analysis, the first formal fairness audit on this dataset, and cross-institutional validation against 20,427 students from a Spanish university.
 
-**Live demo:** [🚀 Open Streamlit App](https://hammadmrza-student-dropout-prediction.streamlit.app)
+**Live demo:** https://hammadmrza-student-dropout-prediction.streamlit.app)
 
 ---
 
@@ -188,9 +188,10 @@ The same methodology (RF + SMOTE + SHAP) was applied to the UPV dataset:
 
 ## 🔗 Links
 
-- **UCI Dataset:** https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success
-- **UPV Dataset:** https://doi.org/10.3390/data10100162
-- **Live App:** https://hammadmrza-student-dropout-prediction.streamlit.app
+Code: https://github.com/hammadmrza/student-dropout-prediction
+Live App: https://student-dropout-prediction-itec6240.streamlit.app
+UCI Dataset: https://archive.ics.uci.edu/dataset/697
+UPV Dataset: https://doi.org/10.3390/data10100162
 
 ---
 
