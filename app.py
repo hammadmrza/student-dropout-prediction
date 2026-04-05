@@ -1,7 +1,7 @@
 """
 Student Dropout Risk Prediction — Advisor Dashboard
 ITEC 6240 - Machine Learning and Its Applications
-York University | Cameron Thomson · Hammad Mirza · Fatemeh Khezerlouye Aghdam
+Hammad Mirza
 """
 import streamlit as st
 import pandas as pd
@@ -79,7 +79,7 @@ with st.sidebar:
     model_choice=st.selectbox("Model",["Stacking Ensemble (Best)","Random Forest"],help="Stacking Ensemble: 78.5% accuracy, 0.732 macro F1 — recommended.\nRandom Forest: 77.2% accuracy, 0.718 macro F1.")
     st.markdown("---")
     st.caption("ITEC 6240 — York University, 2026")
-    st.caption("Thomson · Mirza · Khezerlouye Aghdam")
+    st.caption("Hammad Mirza")
 
 def get_model(): return stacking if "Stacking" in model_choice else rf
 def predict_student(fd):
@@ -493,7 +493,7 @@ Built as a research prototype for academic advisors exploring early warning syst
 
 ### Team
 
-**Cameron Thomson · Hammad Mirza · Fatemeh Khezerlouye Aghdam**
+Hammad Mirza
 ITEC 6240 — Machine Learning and Its Applications, York University, 2026
 
 ---
